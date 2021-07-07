@@ -1,0 +1,11 @@
+Taxpayer,BPC,Type,Grp,Origin,Key,Central Block,Odoo SME,Medical Institute,Legal form,Industry,LegEnty,Chk.digit,Academic Title 1,2nd key,Format,Ctry,LG,M,F,Marital Stat.,Employer,Occupation,Nationality,Obsolete Field 1,Ctry Orig,Person,Unknown,User,Birth Date,Death date,Pers.No.,Obsolete Field 2,Obsolete Field 3,Birth Date Status,GTyp,Partner Converted,IsOrgCenter,Natural Person
+24-5487634,1,SPEN,TAXP,SREG,4,true,2,true,14,Computer Software: Prepackaged Software,7,,,,,,,true,false,false,Fivebridge,Pharmacist,QA,,CN,31,,,02/10/1935,,80-551-4056,,,,,true,true,false
+82-1598385,3,PUBE,TAXP,SWIN,2,false,3,false,7,Metal Fabrications,7,,,,,,,false,true,false,Brainbox,Software Consultant,QA,,BR,097,,,26/06/1995,,36-987-0297,,,,,true,true,false
+78-0940156,3,NPO,NOTP,SREG,4,true,3,true,2,Hospital/Nursing Management,6,,,,,,,true,false,true,Realmix,Actuary,,,PT,14835,,,30/11/1970,,33-230-9652,,,,,true,false,true
+87-8638931,2,NRES,ZTAC,1,2,true,2,false,12,Major Pharmaceuticals,3,,,,,,,true,false,false,Divanoodle,Sales Associate,QA,,BG,0043,,,15/05/1959,18/03/2018,97-293-6535,,,,,true,false,false
+56-6560751,1,CRES,1,TRGP,4,false,2,true,4,Real Estate,5,,,,,,,false,true,true,Jabbersphere,Pharmacist,,,AR,3653,,,04/09/1974,,87-954-4298,,,,,false,false,false
+44-4366050,1,EENP,2,1,3,false,3,true,2,Real Estate Investment Trusts,7,,,,,,,true,false,false,Twitterlist,Nurse,QA,,HN,45502,,,15/09/1981,,90-039-4554,,,,,true,true,true
+01-5564525,1,TABL,TAEM,SWIN,6,false,2,false,8,Precious Metals,9,,,,,,,false,true,true,Agimba,Engineer I,,,SE,05,,,29/04/1943,,84-571-9571,,,,,true,true,false
+33-0295565,2,FARM,ZTAC,3,1,false,1,false,7,Major Pharmaceuticals,6,,,,,,,true,false,true,Riffpedia,Chemical Engineer,,,JP,1528,,,27/10/1959,,54-450-5166,,,,,false,true,true
+57-7291866,1,UNIN,ZCOR,3,2,true,1,false,1,Property-Casualty Insurers,1,,,,,,,true,false,true,Demivee,Help Desk Operator,,,BY,53,,,10/11/1987,,78-466-3545,,,,,true,false,true
+66-9350495,2,INVF,ZTRR,SWIN,8,true,1,true,1,Telecommunications Equipment,4,,,,,,,false,true,true,Devshare,Mechanical Systems Engineer,QA,,TH,4049,,,13/04/1947,,57-300-6338,,,,,false,true,true
